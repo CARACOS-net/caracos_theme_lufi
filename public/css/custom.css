@@ -1,0 +1,19 @@
+a, a:hover, a.classic, a.classic:hover {
+  color: #3C9C03;
+}
+
+nav li.active a {
+  color: #cf181f;
+}
+
+a:visited, a.classic:visited {
+  color: #286902;
+}
+
+.btn, a.btn {
+ color: white;
+}
+
+.btn:hover, a.btn:hover {
+ background-color: #286902;
+}
